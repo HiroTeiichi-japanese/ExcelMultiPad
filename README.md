@@ -1,4 +1,9 @@
 ExcelMultiPad
+# ExcelMultiPad
+
+## 📥 [Download EXE (Windows)](https://github.com/HiroTeiichi-japanese/ExcelMultiPad/releases/latest/download/ExcelMultiPad.exe)
+↑ クリックするだけで最新版のEXEがダウンロードされます。
+
 Multi-language Excel Shortcut Launcher with Integrated Numpad
 
 日本語 | English | 한국어 | 简体中文
