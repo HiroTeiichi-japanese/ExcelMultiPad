@@ -6,11 +6,11 @@ ExcelMultiPad
 
 ### 📸 Screenshots
 <p align="left">
-  <img src="1.png" width="45%" />
-  <img src="2.png" width="45%" />
-  <img src="3.png" width="45%" />
-  <img src="4.png" width="45%" />
-</p>
+  <a href="1.png"><img src="1.png" width="45%" /></a>
+  <a href="2.png"><img src="2.png" width="45%" /></a>
+  <a href="3.png"><img src="3.png" width="45%" /></a>
+  <a href="4.png"><img src="4.png" width="45%" /></a>
+</p>>
 
 Multi-language Excel Shortcut Launcher with Integrated Numpad
 
